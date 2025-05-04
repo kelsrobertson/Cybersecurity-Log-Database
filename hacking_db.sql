@@ -21,7 +21,7 @@ CREATE TABLE Dummy (
 
 INSERT INTO Dummy (name, value, dob, age, email) VALUES
 ( 'Lucas', 234, '1999-10-29', 25, 'Lucas.C@gmail.com'),
-( 'Sam', 567, '1998-12-02', 25, 'SAmmy.Dad@gmail.com'),
+( 'Sam', 567, '1998-12-02', 25, 'Sammy.Doge@gmail.com'),
 ( 'Dodge',457, '2000-01-12', 24, 'ramboy@gmail.com');
 
 
